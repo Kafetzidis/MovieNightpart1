@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Movie Night part 1</string>
+    <string name="poster_content_description">Poster image for the GridView</string>
+    <string name="ImageView_content_description">Backdrop Image</string>
+
+    <string-array name="tabTitles">
+        <item>Most popular</item>
+        <item>Top rated</item>
+        <item>Now playing</item>
+        <item>Upcoming</item>
+    </string-array>
+
+    <string name="no_movies">No movies loaded</string>
+    <string name="choose_list">Choose list</string>
+    <string name="most_popular">Most popular</string>
+    <string name="highest_rated">Top rated</string>
+    <string name="now_playing">Now playing</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="release_date">Release Date:</string>
+    <string name="overview_title">Overview:</string>
+</resources>
